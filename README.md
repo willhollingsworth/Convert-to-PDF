@@ -1,2 +1,2 @@
 # Convert-to-PDF
-Convert file to pdf
+Automate the conversion of a group of files into PDF files.
