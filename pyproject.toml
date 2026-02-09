@@ -1,0 +1,9 @@
+[project]
+name = "convert-to-pdf"
+version = "0.1.0"
+description = "Batch convert files in a folder to PDFs."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "docx2pdf>=0.1.8",
+]
